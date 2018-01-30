@@ -1,28 +1,9 @@
 ---
 layout: page
-title: About
-comments: yes
-permalink: /about/
+title: Categories
+permalink: /categories/
 ---
 
-
-### Grupo de Análisi de la Upra.
-
-El grupo de Análisis de la UPRA
-
-I like wordpress's theme Twenty Twelve and Twenty eleven very much.
-So I called my Jekyll theme Freshman21 (Freshman <q>twenty-first</q> , it means twenty-first century, not twenty-one), this theme is based on my former theme [Freshman](https://github.com/yulijia/freshman/).
-
-Freshman21 have two main page format, one is [single column](http://yulijia.net/en/  "see demo"), the other is two columns. For more details, please see the articles on the site.
-
-<cite>Proudly enjoy using Freshman21 theme.</cite> <code>;)</code>
-
-![麋鹿](https://i.imgur.com/Mdc4szJl.jpg){: .img-about}
-
-#### Hi, the picture you have seen in the sample-page is a Père David's deer photoed by my friend at Beijing Milu Park, China.
-
-
-## Repositorio del Grupo de Análisis de la UPRA
 
 El repositorio del Grupo de Análisis de la [UPRA](http://upra.gov.co/) es un espacio en el cual la entidad busca poner a disposición de la ciudadanía un conjunto de herramientas y modelos de Geoprocesamiento que han sido desarrollados por el grupo de Análisis de Información con el propósito de llevar a cabo los objetivos misionales de la Entidad. Los cuales permiten:
 

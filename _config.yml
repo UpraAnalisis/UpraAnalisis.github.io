@@ -3,7 +3,7 @@ title: UPRA
 tagline: Unidad de Planificación Rural Agropecuaria
 #author: Lijia Yu
 email: atencionalusuario@upra.gov.co
-#description: "Freshman21 is a Jekyll blog theme." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+description: "Freshman21 is a Jekyll blog theme." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 #keywords: "Jekyll, theme, Freshman21"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://upraanalisis.github.io" # the base hostname & protocol for your site
@@ -20,6 +20,8 @@ aboutme: Unidad de Planificación Rural Agropecuaria, UPRA
 aboutme_photo: "/images/logo_upra.png" # your photo.
 #google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
 
+##Repo inof
+repository: UpraAnalisis/UpraAnalisis.github.io
 
 ### Site setting:
 ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
@@ -29,9 +31,9 @@ default_locale: "es" # blog sidebar language set, only include: English (en), Ch
 locales:
     es:
       Aboutme: "Nosotros"
-      Archives: "Archivos"
+      Archives: "Descarga"
       Blogroll: "Blog"
-      Categories: "Contacto"
+      Categories: "Información"
       Copyright_Notice: "Copyright Notice"
       Recent_Posts: "Posts Recientes"
       Tags: "Etiqueras"
@@ -41,7 +43,7 @@ locales:
       Taggedwith: "Etiquetado con"
       PostDate: "en "
       Google_search: "Buscar"
-      Home: "Inico"
+      Home: "Inicio"
       About: "Acerca de"
       Guestbook: "Guestbook"
       Subscribe: "Suscribirse"
