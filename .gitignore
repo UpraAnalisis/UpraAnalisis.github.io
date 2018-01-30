@@ -1,4 +1,8 @@
 _site
 .sass-cache
+<<<<<<< HEAD
 *.bat
+=======
+*.yml
+>>>>>>> 5c49674d7e64b3e2498e101de33f7648a3e74948
 Gemfile.lock
