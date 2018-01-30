@@ -1,30 +1,50 @@
 ### Site info:
-title: Freshman21
-tagline: Another Jekyll theme, Freshman twenty-first
-author: Lijia Yu
+title: UPRA
+tagline: Unidad de Planificación Rural Agropecuaria
+#author: Lijia Yu
 email: yu@lijiayu.net
 description: "Freshman21 is a Jekyll blog theme." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "Jekyll, theme, Freshman21"
-baseurl: "https://upraanalisis.github.io" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://upraanalisis.github.io" # the base hostname & protocol for your site
-locale: en_US
+locale: es_CO
 
 ### Personal info and site tools info:
-twitter_username: yulijia
-github_username:  yulijia
-disqus_shortname: freshman21
-favicon:     "/images/favicon.ico"
-aboutme: Hi, this is Lijia Yu. I made the Freshman21 theme. Please enjoy it. # these are shown on aboutme-sidebar.
-aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg# your photo.
-google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
+twitter_username: UPRAColombia
+github_username:  UpraAnalisis
+facebook_username: ColombiaUPRA
+youtube_username: UPRAColombia
+#disqus_shortname: freshman21
+favicon: "/images/favicon.ico"
+aboutme: Unidad de Planificación Rural Agropecuaria, UPRA
+aboutme_photo: "/images/logo_upra.png" # your photo.
+#google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
 
 
 ### Site setting:
 ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
 default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
-default_locale: "en" # blog sidebar language set, only include: English (en), Chinese (cn), Japanese (jp), Polish (pl), Korean (kr),  Russian (ru), Turkish (tr), and Indonesian (id).
+default_locale: "es" # blog sidebar language set, only include: English (en), Chinese (cn), Japanese (jp), Polish (pl), Korean (kr),  Russian (ru), Turkish (tr), and Indonesian (id).
 
 locales:
+    es:
+      Aboutme: "Nosotros"
+      Archives: "Archivos"
+      Blogroll: "Blog"
+      Categories: "Contacto"
+      Copyright_Notice: "Copyright Notice"
+      Recent_Posts: "Posts Recientes"
+      Tags: "Etiqueras"
+      Previous: "Previos"
+      Next: "Nuevo"
+      PostedInCategories: "Publicado en"
+      Taggedwith: "Etiquetado con"
+      PostDate: "en "
+      Google_search: "Buscar"
+      Home: "Inico"
+      About: "Acerca de"
+      Guestbook: "Guestbook"
+      Subscribe: "Suscribirse"
     en:
       Aboutme: "About Me"
       Archives: "Archives"
