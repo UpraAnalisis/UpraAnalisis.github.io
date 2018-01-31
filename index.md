@@ -1,51 +1,50 @@
-## Bienvenido al repositorio de la UPRA
+
+## Bienvenido al repositorio de Análisis de la UPRA
+
+
+
+<table>
+  <tr>
+    <td>
+    <b><a href="https://github.com/UpraAnalisis/UPRA-Analisis-Tools">UPRA-Analisis-Tools</a></b>
+    <br>
+    <br>
+    <p>AddIn de ArcGIS Que contiene utilidades para el análisis de información</p>
+    </td>
+    <td>
+    <b><a href="https://github.com/UpraAnalisis/UPRA-Analisis-Tools_x64">UPRA-Analisis-Tools_x64</a></b>
+    <br>
+    <p> AddIn de ArcGIS Que contiene utilidades para el análisis de información - REQUIERE Background Geoprocessing (64-bit)</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <b><a href="https://github.com/UpraAnalisis/AptiTool">AptiTool</a></b>
+    <br>
+    <p>AddIn de ArcGIS para generar reporte del comportamiento de las variables según el componente que se seleccione.</p>
+    </td>
+    <td>
+    <b><a href="https://github.com/UpraAnalisis/AgrupacionPoligonos">AgrupacionPoligonos</a></b>
+    <br>
+    <p> AddIn de ArcGIS Que contiene utilidades para el análisis de información - REQUIERE Background Geoprocessing (64-bit)</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <b><a href="https://github.com/UpraAnalisis/AptiTool">TallersemanaGeomatica2017</a></b>
+    <br>
+    <p>Archivos que requieren para el taller preparado por la UPRA para la semana de Geomática - IGAC 2017.</p>
+    </td>
+    <td>
+    <b><a href="https://github.com/UpraAnalisis/AgrupacionPoligonos">zonificacion</a></b>
+    <br>
+    <br>
+    <p> Modelos Análisis de ArcGIS para la obtención de variables y criterios por componente. </p>
+    </td>
+  </tr>
+</table>
+
+![](./gifs/Descarga_multicortes_32.gif)
 
 Para mas información de los repositorios por favor visite
 [Repositorios UPRA](https://github.com/UpraAnalisis?tab=repositories)
-
-### Como instalar Multicortes ###
-
-Image:
-
-![upra](http://www.esri.com/~/media/Images/Content/products/3d-capabilities/GIF.gif)
-
-
-You can use the [editor on GitHub](https://github.com/UpraAnalisis/UpraAnalisis.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-{% for repository in site.github.public_repositories %}
-  * [{{ repository.name }}]({{ repository.html_url }})
-{% endfor %}
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UpraAnalisis/UpraAnalisis.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

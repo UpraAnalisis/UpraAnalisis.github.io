@@ -16,7 +16,7 @@ permalink: /archives/
     * Item C 3
 + **Modelos de Geoprocesamiento**
     * [Zonificación](https://github.com/UpraAnalisis/TallersemanaGeomatica2017)
-+ **Talleres Upra**
++ **Talleres UPRA**
     * [Taller Semana Geomatica 2017](https://github.com/UpraAnalisis/TallersemanaGeomatica2017)
 
 Para acceder a los repositorios de la UPRA haga clic en el Siguiente enlace:

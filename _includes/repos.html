@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+}
+/* Create two equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 45%;
+    padding: 10px;
+    height: 150px; /* Should be removed. Only for demonstration */
+    margin: 5px;
+    margin-bottom: 16px;
+    border: 1px #e1e4e8 solid !important;
+    background-color: #fff;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.text {
+  color:#586069 !important;
+}
+
+.repname {
+  color:#0366d6;
+}
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media (max-width: 300px) {
+    .column {
+        width: 100%;
+    }
+}
+</style>
+</head>
+<body>
+
+<!--<p class="repname">Responsive Two Column Layout</h2>
+<p class="text">Resize the browser window to see the responsive effect (the columns will stack on top of each other instead of floating next to each other, when the screen is less than 600px wide).</p>
+-->
+
+<div class="row">
+  <div class="column" >
+    <a class="repname" href="https://github.com/UpraAnalisis/UPRA-Analisis-Tools">UPRA-Analisis-Tools</a>
+    <p class="text">AddIn de ArcGIS Que contiene utilidades para el análisis de información</p>
+  </div>
+  <div class="column" >
+    <a class="repname" href="">UPRA-Analisis-Tools_x64</h2>
+    <p class="text">AddIn de ArcGIS Que contiene utilidades para el análisis de información - REQUIERE Background Geoprocessing (64-bit)</p>
+  </div>
+</div>
+<div class="row">
+  <div class="column" >
+    <a class="repname" href="">AptiTool</a>
+    <p class="text">AddIn de ArcGIS para generar reporte del comportamiento de las variables según el componente que se seleccione.</p>
+  </div>
+  <div class="column" >
+    <a class="repname" href="">AgrupacionPoligonos</a>
+    <p class="text">Modelos Análisis de ArcGIS para la obtención de variables y criterios por componente.</p>
+  </div>
+</div>
+<div class="row">
+  <div class="column">
+    <a class="repname" href="">TallersemanaGeomatica2017</a>
+    <p class="text">Archivos que se requieren para el taller preparado por la UPRA para la semana de Geomática - IGAC 2017</p>
+  </div>
+  <div class="column">
+    <a class="repname" href="">zonificacion</a>
+    <p class="text">Modelos Análisis de ArcGIS para la obtención de variables y criterios por componente.</p>
+  </div>
+</div>
+
+
+</body>
+</html>
