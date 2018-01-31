@@ -1,7 +1,7 @@
 
-## Bienvenido al repositorio de Análisis de la UPRA
+<h1><span style="color:#00923E">Bienvenido al repositorio del Grupo de Análisis de la UPRA </span></h1>
 
-
+<br>
 
 <table>
   <tr>
@@ -43,6 +43,6 @@
     </td>
   </tr>
 </table>
-
+<br >
 Para mas información de los repositorios por favor visite
 [Repositorios UPRA](https://github.com/UpraAnalisis?tab=repositories)
