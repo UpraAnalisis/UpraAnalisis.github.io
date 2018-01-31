@@ -44,7 +44,5 @@
   </tr>
 </table>
 
-![](./gifs/Descarga_multicortes_32.gif)
-
 Para mas información de los repositorios por favor visite
 [Repositorios UPRA](https://github.com/UpraAnalisis?tab=repositories)
