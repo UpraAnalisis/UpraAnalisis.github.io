@@ -11,11 +11,11 @@ permalink: /archives/
 + **Scripts de Geoprocesamiento**
     + [Agrupacion de Polígonos](https://github.com/UpraAnalisis/AgrupacionPoligonos)
 + **Expresiones de Consola**
-    * Item C 1
-    * Item C 2
-    * Item C 3
+    * Expresión 1
+    * Expresión 2
+    * Expresión 3
 + **Modelos de Geoprocesamiento**
-    * [Zonificación](https://github.com/UpraAnalisis/TallersemanaGeomatica2017)
+    * [Zonificación](https://github.com/UpraAnalisis/zonificacion)
 + **Talleres UPRA**
     * [Taller Semana Geomatica 2017](https://github.com/UpraAnalisis/TallersemanaGeomatica2017)
 
