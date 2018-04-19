@@ -10,10 +10,6 @@ permalink: /archives/
     * [UPRA-Analisis-Tools_x64](https://github.com/UpraAnalisis/UPRA-Analisis-Tools_x64)          
 + **Scripts de Geoprocesamiento**
     + [Agrupacion de Polígonos](https://github.com/UpraAnalisis/AgrupacionPoligonos)
-+ **Expresiones de Consola**
-    * Expresión 1
-    * Expresión 2
-    * Expresión 3
 + **Modelos de Geoprocesamiento**
     * [Zonificación](https://github.com/UpraAnalisis/zonificacion)
 + **Talleres UPRA**
