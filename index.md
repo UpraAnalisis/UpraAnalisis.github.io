@@ -8,16 +8,35 @@ A continuación los repositorios principales:
 <table>
   <tr>
     <td>
-    <b><a href="https://github.com/UpraAnalisis/UPRA-Analisis-Tools">UPRA-Analisis-Tools</a></b>
-    <br>
-    <br>
-    <p>AddIn de ArcGIS Que contiene utilidades para el análisis de información</p>
+    <b><a href="https://github.com/UpraAnalisis/Script_Agrupacion_Poligonos_x_Puntos">Agrupacion_Poligonos_x_Puntos</a></b>
+      <br>
+    <p>Este script de ArcGIS permite realizar un proceso de agrupación de polígonos por irradiación de datos puntuales</p>
     <img src="https://docs.python.org/3/_static/py.png" alt="Mountain View" > Python
     </td>
     <td>
-    <b><a href="https://github.com/UpraAnalisis/UPRA-Analisis-Tools_x64">UPRA-Analisis-Tools_x64</a></b>
     <br>
-    <p> AddIn de ArcGIS Que contiene utilidades para el análisis de información - REQUIERE Background Geoprocessing (64-bit)</p>
+    <br>
+    <b><a href="https://github.com/UpraAnalisis/Herramientas_Optimizadas">Herramientas_Optimizadas</a></b>
+
+    <p> Herramientas que emplean procesamiento a 64bits y procesos en memoria,
+    creadas por el grupo de Análisis, para agilizar los modelos de geoprocesamiento</p>
+    <img src="https://docs.python.org/3/_static/py.png" alt="Mountain View" > Python
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <b><a href="https://github.com/UpraAnalisis/Modelos-de-Geoprocesamiento">Modelos-de-Geoprocesamiento</a></b>
+    <br>
+    <p>Modelos desarrollados por el grupo de análisis de la oficina
+    TICS de la UPRA, que tienen
+    como objetivo documentar las rutinas de análisis relacionadas a la
+    evaluación de aptitud en los diferentes cultivos </p>
+    <img src="https://docs.python.org/3/_static/py.png" alt="Mountain View" > Python
+    </td>
+    <td>
+    <b><a href="https://github.com/UpraAnalisis/UPRA-Analisis-Tools">UPRA-Analisis-Tools</a></b>
+    <br>
+    <p> AddIn de ArcGIS que contiene un conjunto  utilidades para agilizar el análisis y al generación de información </p>
     <img src="https://docs.python.org/3/_static/py.png" alt="Mountain View" > Python
     </td>
   </tr>
@@ -25,27 +44,15 @@ A continuación los repositorios principales:
     <td>
     <b><a href="https://github.com/UpraAnalisis/AptiTool">AptiTool</a></b>
     <br>
-    <p>AddIn de ArcGIS para generar reporte del comportamiento de las variables según el componente que se seleccione.</p>
+    <p>AddIn de ArcGIS para generar reporte del comportamiento de las variables según el componente que se seleccione</p>
     <img src="https://docs.python.org/3/_static/py.png" alt="Mountain View" > Python
     </td>
     <td>
     <b><a href="https://github.com/UpraAnalisis/AgrupacionPoligonos">AgrupacionPoligonos</a></b>
     <br>
-    <p> AddIn de ArcGIS Que contiene utilidades para el análisis de información - REQUIERE Background Geoprocessing (64-bit)</p>
+    <br>
+    <p>Script para la agrupación de polígonos adyacentes según una magnitud acumulada.</p>
     <img src="https://docs.python.org/3/_static/py.png" alt="Mountain View" > Python
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <b><a href="https://github.com/UpraAnalisis/TallersemanaGeomatica2017">Taller Semana Geomatica 2017</a></b>
-    <br>
-    <p>Archivos que requieren para el taller preparado por la UPRA para la semana de Geomática - IGAC 2017.</p>
-    </td>
-    <td>
-    <b><a href="https://github.com/UpraAnalisis/zonificacion">Zonificación</a></b>
-    <br>
-    <br>
-    <p> Modelos Análisis de ArcGIS para la obtención de variables y criterios por componente. </p>
     </td>
   </tr>
 </table>
